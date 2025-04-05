@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**suhani090505/suhani090505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there! I'm Suhani
 
-Here are some ideas to get you started:
+🎓 I'm a college student   
+🧠 I’m currently exploring computer vision, image processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills & Tools
+
+- Languages: MATLAB, C++
+- Libraries/Frameworks: OpenCV, YOLOv8
+
+---
+
+### 📌 Projects
+
+🔹 [Blue Object Detection in MATLAB](https://github.com/yourusername/blue-object-detection)  
+_A simple computer vision project that detects blue-colored objects in cluttered images._
+
+---
+
+### 🚀 Currently Learning
+
+- Real-time surveillance with YOLOv8  
+- Deployment of ML models 
+
+---
+
+### 📫 Connect With Me
+
+- ✉️ Email: sumansuhani852@gmail.com  
+---
+
+
